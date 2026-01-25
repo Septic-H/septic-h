@@ -8,8 +8,8 @@ I turn "it works on my machine" into "it works in production."
 
 ![Top Languages Used](https://github-readme-stats-black-ten-79.vercel.app/api/top-langs/?username=septic-h&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Daily Coding Streak](https://nirzak-streak-stats.vercel.app/?user=septic-h&theme=dark&hide_border=true)
+![Daily Coding Streak](https://github-readme-streak-stats-lyart-sigma.vercel.app/?user=septic-h&theme=dark&hide_border=true)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=septic-h&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Github Trophies](https://github-profile-trophy-iota-lime.vercel.app/?username=septic-h&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![Recent Contributions](https://github-contributor-stats.vercel.app/api?username=septic-h&limit=5&theme=dark&combine_all_yearly_contributions=true)
